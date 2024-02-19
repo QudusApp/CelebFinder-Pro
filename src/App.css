@@ -19,3 +19,43 @@ li{
 ul{
     padding: 0px;
 }
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
+
+.pagination li {
+    margin: 0 5px;
+}
+
+.pagination li a {
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.pagination li.active a {
+    background-color: #007bff;
+    color: white;
+}
+
+.pagination li a:hover {
+    background-color: #ddd;
+}
+
+.search-area {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.search-area input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
