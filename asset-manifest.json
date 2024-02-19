@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CelebFinder-Pro/static/css/main.5f359485.css",
-    "main.js": "/CelebFinder-Pro/static/js/main.d411ab09.js",
+    "main.js": "/CelebFinder-Pro/static/js/main.e785abeb.js",
     "index.html": "/CelebFinder-Pro/index.html",
     "main.5f359485.css.map": "/CelebFinder-Pro/static/css/main.5f359485.css.map",
-    "main.d411ab09.js.map": "/CelebFinder-Pro/static/js/main.d411ab09.js.map"
+    "main.e785abeb.js.map": "/CelebFinder-Pro/static/js/main.e785abeb.js.map"
   },
   "entrypoints": [
     "static/css/main.5f359485.css",
-    "static/js/main.d411ab09.js"
+    "static/js/main.e785abeb.js"
   ]
 }
